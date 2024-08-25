@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktwojbielik=self.webpackChunktwojbielik||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/twojbielik/blog","blogTitle":"Blog","authorsListPath":"/twojbielik/blog/authors"}')}}]);

@@ -28,7 +28,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.ts",
-          "editUrl": "https://github.com/danieltechdev/twojbielik"
+          "editUrl": "https://github.com/danieltechdev/twojbielik/blob/main"
         },
         "blog": {
           "showReadingTime": true,
@@ -39,7 +39,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/danieltechdev/twojbielik",
+          "editUrl": "https://github.com/danieltechdev/twojbielik/blob/main",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
