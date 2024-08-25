@@ -1,0 +1,108 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/twojbielik/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/twojbielik/docs",
+          "mainDocId": "wstep",
+          "docs": [
+            {
+              "id": "rozwiniecie/narzedzia/anythingllm",
+              "path": "/twojbielik/docs/rozwiniecie/narzedzia/anythingllm",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rozwiniecie/narzedzia/jan",
+              "path": "/twojbielik/docs/rozwiniecie/narzedzia/jan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rozwiniecie/narzedzia/ollama",
+              "path": "/twojbielik/docs/rozwiniecie/narzedzia/ollama",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rozwiniecie/promptowanie/budowa",
+              "path": "/twojbielik/docs/rozwiniecie/promptowanie/budowa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "rozwiniecie/promptowanie/gotowce",
+              "path": "/twojbielik/docs/rozwiniecie/promptowanie/gotowce",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wklad",
+              "path": "/twojbielik/docs/wklad",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wprowadzenie/instalacja",
+              "path": "/twojbielik/docs/wprowadzenie/instalacja",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wprowadzenie/pobieranie",
+              "path": "/twojbielik/docs/wprowadzenie/pobieranie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wprowadzenie/specyfikacja",
+              "path": "/twojbielik/docs/wprowadzenie/specyfikacja",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wprowadzenie/ustawienia",
+              "path": "/twojbielik/docs/wprowadzenie/ustawienia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wprowadzenie/uzycie",
+              "path": "/twojbielik/docs/wprowadzenie/uzycie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "wstep",
+              "path": "/twojbielik/docs/wstep",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/szybki-start",
+              "path": "/twojbielik/docs/category/szybki-start",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/następne-kroki",
+              "path": "/twojbielik/docs/category/następne-kroki",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/prompty",
+              "path": "/twojbielik/docs/category/prompty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/narzędzia",
+              "path": "/twojbielik/docs/category/narzędzia",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/twojbielik/docs/wstep",
+                "label": "wstep"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

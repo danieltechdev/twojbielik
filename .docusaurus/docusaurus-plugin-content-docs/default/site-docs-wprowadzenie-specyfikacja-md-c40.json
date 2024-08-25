@@ -1,0 +1,28 @@
+{
+  "id": "wprowadzenie/specyfikacja",
+  "title": "Sprawdzenie parametrów urządzenia",
+  "description": "Jak sprawdzic czy spełniasz wymygania sprzętowe",
+  "source": "@site/docs/wprowadzenie/specyfikacja.md",
+  "sourceDirName": "wprowadzenie",
+  "slug": "/wprowadzenie/specyfikacja",
+  "permalink": "/twojbielik/docs/wprowadzenie/specyfikacja",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/wprowadzenie/specyfikacja.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sprawdzenie parametrów urządzenia",
+    "description": "Jak sprawdzic czy spełniasz wymygania sprzętowe",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Używanie czatu",
+    "permalink": "/twojbielik/docs/wprowadzenie/uzycie"
+  },
+  "next": {
+    "title": "Następne kroki",
+    "permalink": "/twojbielik/docs/category/następne-kroki"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "rozwiniecie/narzedzia/ollama",
+  "title": "Ollama",
+  "description": "w budowie",
+  "source": "@site/docs/rozwiniecie/narzedzia/ollama.md",
+  "sourceDirName": "rozwiniecie/narzedzia",
+  "slug": "/rozwiniecie/narzedzia/ollama",
+  "permalink": "/twojbielik/docs/rozwiniecie/narzedzia/ollama",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/rozwiniecie/narzedzia/ollama.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Narzędzia",
+    "permalink": "/twojbielik/docs/category/narzędzia"
+  },
+  "next": {
+    "title": "AnythingLLM",
+    "permalink": "/twojbielik/docs/rozwiniecie/narzedzia/anythingllm"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "wprowadzenie/uzycie",
+  "title": "Używanie czatu",
+  "description": "Jak używać czatu w LM Studio",
+  "source": "@site/docs/wprowadzenie/uzycie.md",
+  "sourceDirName": "wprowadzenie",
+  "slug": "/wprowadzenie/uzycie",
+  "permalink": "/twojbielik/docs/wprowadzenie/uzycie",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/wprowadzenie/uzycie.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ustawienia",
+    "permalink": "/twojbielik/docs/wprowadzenie/ustawienia"
+  },
+  "next": {
+    "title": "Sprawdzenie parametrów urządzenia",
+    "permalink": "/twojbielik/docs/wprowadzenie/specyfikacja"
+  }
+}

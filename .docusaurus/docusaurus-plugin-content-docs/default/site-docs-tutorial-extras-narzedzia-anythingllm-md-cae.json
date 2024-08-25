@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-extras/narzedzia/anythingllm",
+  "title": "AnythingLLM",
+  "description": "",
+  "source": "@site/docs/tutorial-extras/narzedzia/anythingllm.md",
+  "sourceDirName": "tutorial-extras/narzedzia",
+  "slug": "/tutorial-extras/narzedzia/anythingllm",
+  "permalink": "/twojbielik/docs/tutorial-extras/narzedzia/anythingllm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/tutorial-extras/narzedzia/anythingllm.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/twojbielik/docs/tutorial-extras/narzedzia/ollama"
+  },
+  "next": {
+    "title": "jan",
+    "permalink": "/twojbielik/docs/tutorial-extras/narzedzia/jan"
+  }
+}

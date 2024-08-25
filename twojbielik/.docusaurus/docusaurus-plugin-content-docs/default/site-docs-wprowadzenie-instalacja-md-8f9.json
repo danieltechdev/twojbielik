@@ -1,0 +1,28 @@
+{
+  "id": "wprowadzenie/instalacja",
+  "title": "Instalacja",
+  "description": "Na początek przygody polecamy program LM Studio.",
+  "source": "@site/docs/wprowadzenie/instalacja.md",
+  "sourceDirName": "wprowadzenie",
+  "slug": "/wprowadzenie/instalacja",
+  "permalink": "/twojbielik/docs/wprowadzenie/instalacja",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/wprowadzenie/instalacja.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "title": "Instalacja"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Szybki start",
+    "permalink": "/twojbielik/docs/category/szybki-start"
+  },
+  "next": {
+    "title": "Pobieranie Modelu Bielik",
+    "permalink": "/twojbielik/docs/wprowadzenie/pobieranie"
+  }
+}

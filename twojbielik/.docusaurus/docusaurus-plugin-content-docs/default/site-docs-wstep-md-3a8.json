@@ -1,0 +1,23 @@
+{
+  "id": "wstep",
+  "title": "Wstęp",
+  "description": "Dowiedz się o czego zacząć.",
+  "source": "@site/docs/wstep.md",
+  "sourceDirName": ".",
+  "slug": "/wstep",
+  "permalink": "/twojbielik/docs/wstep",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/wstep.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Szybki start",
+    "permalink": "/twojbielik/docs/category/szybki-start"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "wklad",
+  "title": "Wkład w projekt",
+  "description": "Serdecznie witamy i doceniamy wszelkie wkłady społeczności w celu ulepszenia Bielika Speakleash i tej dokumentacji.",
+  "source": "@site/docs/wklad.md",
+  "sourceDirName": ".",
+  "slug": "/wklad",
+  "permalink": "/twojbielik/docs/wklad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/wklad.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jan",
+    "permalink": "/twojbielik/docs/rozwiniecie/narzedzia/jan"
+  }
+}

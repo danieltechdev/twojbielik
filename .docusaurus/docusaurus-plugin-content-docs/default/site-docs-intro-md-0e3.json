@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "O co tak właściwie chodzi z tym całym czatem?",
+  "description": "Dowiedz się i spróbuj Twój Bielik.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/twojbielik/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/twojbielik/docs/category/tutorial---basics"
+  }
+}

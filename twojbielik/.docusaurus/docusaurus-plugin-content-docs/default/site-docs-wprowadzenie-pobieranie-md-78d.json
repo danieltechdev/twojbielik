@@ -1,0 +1,27 @@
+{
+  "id": "wprowadzenie/pobieranie",
+  "title": "Pobieranie Modelu Bielik",
+  "description": "Pobranie polskiego modelu językowego Bielik",
+  "source": "@site/docs/wprowadzenie/pobieranie.md",
+  "sourceDirName": "wprowadzenie",
+  "slug": "/wprowadzenie/pobieranie",
+  "permalink": "/twojbielik/docs/wprowadzenie/pobieranie",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/wprowadzenie/pobieranie.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalacja",
+    "permalink": "/twojbielik/docs/wprowadzenie/instalacja"
+  },
+  "next": {
+    "title": "Ustawienia",
+    "permalink": "/twojbielik/docs/wprowadzenie/ustawienia"
+  }
+}

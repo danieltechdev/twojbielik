@@ -1,0 +1,27 @@
+{
+  "id": "wprowadzenie/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/wprowadzenie/create-a-blog-post.md",
+  "sourceDirName": "wprowadzenie",
+  "slug": "/wprowadzenie/create-a-blog-post",
+  "permalink": "/twojbielik/docs/wprowadzenie/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/wprowadzenie/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instalacja",
+    "permalink": "/twojbielik/docs/wprowadzenie/instalacja"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/twojbielik/docs/wprowadzenie/markdown-features"
+  }
+}

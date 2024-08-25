@@ -1,0 +1,27 @@
+{
+  "id": "rozwiniecie/promptowanie/gotowce",
+  "title": "Gotowe prompty",
+  "description": "w budowie",
+  "source": "@site/docs/rozwiniecie/promptowanie/gotowce.md",
+  "sourceDirName": "rozwiniecie/promptowanie",
+  "slug": "/rozwiniecie/promptowanie/gotowce",
+  "permalink": "/twojbielik/docs/rozwiniecie/promptowanie/gotowce",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/rozwiniecie/promptowanie/gotowce.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Budowa prompta",
+    "permalink": "/twojbielik/docs/rozwiniecie/promptowanie/budowa"
+  },
+  "next": {
+    "title": "Narzędzia",
+    "permalink": "/twojbielik/docs/category/narzędzia"
+  }
+}

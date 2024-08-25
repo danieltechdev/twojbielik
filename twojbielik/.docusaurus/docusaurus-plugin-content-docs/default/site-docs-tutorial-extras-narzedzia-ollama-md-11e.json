@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-extras/narzedzia/ollama",
+  "title": "Manage Docs Versions",
+  "description": "",
+  "source": "@site/docs/tutorial-extras/narzedzia/ollama.md",
+  "sourceDirName": "tutorial-extras/narzedzia",
+  "slug": "/tutorial-extras/narzedzia/ollama",
+  "permalink": "/twojbielik/docs/tutorial-extras/narzedzia/ollama",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/danieltechdev/twojbielik/docs/tutorial-extras/narzedzia/ollama.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/twojbielik/docs/category/tutorial---extras-1"
+  },
+  "next": {
+    "title": "AnythingLLM",
+    "permalink": "/twojbielik/docs/tutorial-extras/narzedzia/anythingllm"
+  }
+}
