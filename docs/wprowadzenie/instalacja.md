@@ -53,6 +53,8 @@ Chcesz uruchomić lokalnie modele językowe na swoim Macu? Oto jak pobrać i zai
 
 Chcesz uruchomić lokalnie modele językowe na swoim komputerze z systemem Linux? Oto jak pobrać i zainstalować LLM Studio oraz model językowy.
 
+Tutaj chciałbym dopisac że ... 
+
 1. **Pobierz LLM Studio:**
    - Przejdź na stronę [LM Studio](https://lmstudio.ai) i pobierz wersję dla Linux. Upewnij się, że wybierasz odpowiednią wersję dla swojej dystrybucji.
 
