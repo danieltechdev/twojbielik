@@ -11,7 +11,7 @@ Serdecznie witamy i doceniamy wszelkie wkłady społeczności w celu ulepszenia 
 
 ### Pull Requests (PR)
 
-- Zachęcamy do wnoszenia wkładu poprzez Pull Requests.
+- Zachęcamy do wnoszenia wkładu poprzez Pull Requests na github - używając do tego.
 - Niezależnie od tego, czy naprawiasz błąd, wdrażasz nową funkcję, czy ulepszasz dokumentację, Twoje PR są dla nas cenne.
 
 ### Tutoriale
