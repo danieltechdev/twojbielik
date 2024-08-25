@@ -6,7 +6,7 @@ const config: Config = {
   title: 'Twój Bielik',
   tagline: 'Czat AI z sarmackim wąsem',
   favicon: 'img/sllogo.ico',
-  deploymentBranch: 'gh-pages',
+  deploymentBranch: 'website',
 
   // Set the production url of your site here
   url: 'https://github.com',
