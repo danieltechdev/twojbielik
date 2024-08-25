@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Darmowy',
-    Svg: require('@site/static/img/speakleash.svg').default,
+    Svg: require('@site/static/img/orzel.svg').default,
     description: (
       <>
         Model stworzony przez entuzjastów dla polskiego użytkownika.
