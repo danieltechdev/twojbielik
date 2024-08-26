@@ -14,6 +14,16 @@ Serdecznie witamy i doceniamy wszelkie wkłady społeczności w celu ulepszenia 
 - Zachęcamy do wnoszenia wkładu poprzez Pull Requests na github - używając do tego.
 - Niezależnie od tego, czy naprawiasz błąd, wdrażasz nową funkcję, czy ulepszasz dokumentację, Twoje PR są dla nas cenne.
 
+<details>
+
+  <summary>Zobacz film</summary>
+
+![](/img/edycja.mp4)
+
+</details>
+
+
+
 ### Tutoriale
 
 - Podziel się swoją wiedzą i doświadczeniem, tworząc tutoriale dla Bielika.

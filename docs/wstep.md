@@ -38,6 +38,6 @@ Kolejnym krokiem będzie postępowanie zgodnie z instukcjami [szybki start](/doc
 
 :::tip
 
-W razie wystąpienia problemów sprawdź dział pytań lub skontaktuj się z nami przez discord - chętnie pomożemy.ś
+W razie wystąpienia problemów sprawdź dział pytań lub skontaktuj się z nami przez [Discord](https://discord.gg/ZJwCMrxwT7) - chętnie pomożemy.
 
 :::
