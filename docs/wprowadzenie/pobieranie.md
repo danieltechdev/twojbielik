@@ -23,6 +23,7 @@ Od 28.08.24 dostępna bedzię wersja **v2.2** - wybierz nową wersje!
 <details>
 
   <summary>Zobacz rodzaje</summary>
+  
 Im wyższa liczba kwantów tym model będzie 'działał' lepiej, ale też bardziej obciążał komputer.
 
 ![](/img/kwantyzacja.png)
