@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktwojbielik=self.webpackChunktwojbielik||[]).push([[9676],{4871:s=>{s.exports=JSON.parse('{"tags":[{"label":"Hola","permalink":"/twojbielik/blog/tags/hola","description":"Hola tag description","count":1},{"label":"Docusaurus","permalink":"/twojbielik/blog/tags/docusaurus","description":"Docusaurus tag description","count":1}]}')}}]);

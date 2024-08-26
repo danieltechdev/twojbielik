@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktwojbielik=self.webpackChunktwojbielik||[]).push([[9166],{5589:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/twojbielik/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
