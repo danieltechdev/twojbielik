@@ -4,7 +4,7 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/twojbielik/blog',
-    component: ComponentCreator('/twojbielik/blog', '645'),
+    component: ComponentCreator('/twojbielik/blog', 'fb6'),
     exact: true
   },
   {
@@ -19,27 +19,17 @@ export default [
   },
   {
     path: '/twojbielik/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/twojbielik/blog/authors/all-sebastien-lorber-articles', '273'),
+    component: ComponentCreator('/twojbielik/blog/authors/all-sebastien-lorber-articles', '292'),
     exact: true
   },
   {
     path: '/twojbielik/blog/authors/yangshun',
-    component: ComponentCreator('/twojbielik/blog/authors/yangshun', '812'),
+    component: ComponentCreator('/twojbielik/blog/authors/yangshun', 'e8f'),
     exact: true
   },
   {
     path: '/twojbielik/blog/first-blog-post',
     component: ComponentCreator('/twojbielik/blog/first-blog-post', 'd1a'),
-    exact: true
-  },
-  {
-    path: '/twojbielik/blog/long-blog-post',
-    component: ComponentCreator('/twojbielik/blog/long-blog-post', 'b45'),
-    exact: true
-  },
-  {
-    path: '/twojbielik/blog/mdx-blog-post',
-    component: ComponentCreator('/twojbielik/blog/mdx-blog-post', '921'),
     exact: true
   },
   {
@@ -49,27 +39,12 @@ export default [
   },
   {
     path: '/twojbielik/blog/tags/docusaurus',
-    component: ComponentCreator('/twojbielik/blog/tags/docusaurus', '692'),
-    exact: true
-  },
-  {
-    path: '/twojbielik/blog/tags/facebook',
-    component: ComponentCreator('/twojbielik/blog/tags/facebook', 'e12'),
-    exact: true
-  },
-  {
-    path: '/twojbielik/blog/tags/hello',
-    component: ComponentCreator('/twojbielik/blog/tags/hello', '581'),
+    component: ComponentCreator('/twojbielik/blog/tags/docusaurus', 'dd9'),
     exact: true
   },
   {
     path: '/twojbielik/blog/tags/hola',
     component: ComponentCreator('/twojbielik/blog/tags/hola', '328'),
-    exact: true
-  },
-  {
-    path: '/twojbielik/blog/welcome',
-    component: ComponentCreator('/twojbielik/blog/welcome', 'a9b'),
     exact: true
   },
   {

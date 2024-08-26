@@ -51,7 +51,7 @@ export default {
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/bielik-social-card.jpg",
     "navbar": {
       "title": "Twój Bielik",
       "logo": {
@@ -69,6 +69,12 @@ export default {
           "href": "https://speakleash.org/",
           "label": "Speakleash",
           "position": "right"
+        },
+        {
+          "href": "https://github.com/speakleash",
+          "position": "right",
+          "className": "header-github-link",
+          "aria-label": "GitHub repository"
         }
       ],
       "hideOnScroll": false

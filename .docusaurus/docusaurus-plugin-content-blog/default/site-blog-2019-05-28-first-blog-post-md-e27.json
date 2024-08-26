@@ -65,9 +65,5 @@
       "docusaurus"
     ]
   },
-  "unlisted": false,
-  "prevItem": {
-    "title": "Long Blog Post",
-    "permalink": "/twojbielik/blog/long-blog-post"
-  }
+  "unlisted": false
 }

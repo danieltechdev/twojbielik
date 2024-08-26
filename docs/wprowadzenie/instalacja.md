@@ -26,6 +26,7 @@ import TabItem from '@theme/TabItem';
 2. **Zainstaluj LLM Studio:**
    - Otwórz pobrany plik instalacyjny (.exe) i postępuj zgodnie z instrukcjami wyświetlanymi na ekranie, aby zainstalować aplikację na swoim komputerze.
 
+
 3. **Uruchom LLM Studio:**
    - Po zakończeniu instalacji uruchom aplikację z menu Start lub z pulpitu. Upewnij się, że masz stabilne połączenie z internetem, ponieważ może być wymagane pobranie dodatkowych komponentów.
 
@@ -44,6 +45,10 @@ Chcesz uruchomić lokalnie modele językowe na swoim Macu? Oto jak pobrać i zai
 
 3. **Uruchom LLM Studio:**
    - Otwórz aplikację LLM Studio z folderu Aplikacje. Upewnij się, że masz stabilne połączenie z internetem, ponieważ może być wymagane pobranie dodatkowych komponentów.
+
+![](/img/instalacja.mp4)
+
+
 
   </TabItem>
   <TabItem value="Linux" label="Linux">
