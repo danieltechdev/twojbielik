@@ -22,7 +22,7 @@ Od 28.08.24 dostępna bedzię wersja **v2.2** - wybierz nową wersje!
 ![](/img/instalacjamodelu.mp4)
 
 </details>
-::
+:::
 
 :::tip[Kwatyzacja]
 

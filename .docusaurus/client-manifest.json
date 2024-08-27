@@ -280,9 +280,9 @@
     "1869": {
       "css": [
         {
-          "file": "assets/css/styles.acfff8e2.css",
-          "hash": "1ca54c9d08765cdc",
-          "publicPath": "/twojbielik/assets/css/styles.acfff8e2.css"
+          "file": "assets/css/styles.c1835f1f.css",
+          "hash": "2581dd45349675ee",
+          "publicPath": "/twojbielik/assets/css/styles.c1835f1f.css"
         }
       ]
     },
@@ -388,9 +388,9 @@
     "3760": {
       "js": [
         {
-          "file": "assets/js/78d3c839.2812ef11.js",
-          "hash": "817c1026ebf469f2",
-          "publicPath": "/twojbielik/assets/js/78d3c839.2812ef11.js"
+          "file": "assets/js/78d3c839.5382612e.js",
+          "hash": "60146d8c2d76afed",
+          "publicPath": "/twojbielik/assets/js/78d3c839.5382612e.js"
         }
       ]
     },
@@ -433,9 +433,9 @@
     "5354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.d89fdf2f.js",
-          "hash": "c9b7e2e930f4dacf",
-          "publicPath": "/twojbielik/assets/js/runtime~main.d89fdf2f.js"
+          "file": "assets/js/runtime~main.acf4a6db.js",
+          "hash": "a15aa1fa236707da",
+          "publicPath": "/twojbielik/assets/js/runtime~main.acf4a6db.js"
         }
       ]
     },
